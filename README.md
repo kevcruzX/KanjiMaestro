@@ -1,16 +1,16 @@
 KanjiMaestro
 ============
 
-KanjiMaestro: An overly confident maestro(teacher) queries the player with countless exercises in a way that you can choose the correct option. As the game advances one needs to solve the kanji matching in different mini-games. The game would feature learning paths and frequency optimization depending on artificial intelligence’s designation.
+High concept: An overly confident maestro(teacher) queries the player with countless exercises in a way that you can choose the correct option. As the game advances one needs to solve the kanji matching in different mini-games. The game would feature learning paths and frequency optimization depending on artificial intelligence’s designation.
 
 
 
 Executive Summary
 * •	Is a 2D mini-game compilation with a main teacher figure as the guide of the game. It allows top down view of a dragon that catches matching kanjis bestowing special abilities indicated by the meaning of the kanji itself.
 * •	The dragon(the player) and its nemesis(the CPU controlled NPC) start searching for the shown kanji in barrels, couffins, boxes, bushes, benches and so on, depending on the currentl level theme.
-* •	The dragons open their way through the maze that allows them to view the clearly visible required kanji. Similar to the flashcard style games, the dragon games will allow to choose between:  kanji completion of a word completion; word completion of a phrase; sound, image or animation concept matching with kanji.
-* •	The dragons are tired and they need replenishing, the replenishing kanji must be obtained before complete exhaustion. The same goes for thirst, lust(or infatuation as an euphemism), hunger, power up need to pass through special door, key, jumping ability, flight and so on.
-* •	The dragons eat the kanji that will serve as the query for the opponent, so in this mode, the more difficult the kanji eaten, the better. The punishment for not matching the kanji to the correct concept(once again, either image, sound or animation) will be related to the concept itself. For example the punishment for not solving a riddle regarding 鬼（おに、demon） would be to be cursed by a demon for a minute or so with pestering: fire attacks, traps and visibility obstacles.
+* •	The dragons open their way through the maze that allows them to view the clearly visible required kanji. Similar to the flashcard style games, the dragon games will allow to choose between:  kanji completion of a word; word completion of a phrase; sound, image or animation concept matching with kanji.
+* •	The dragons are tired and they need replenishing, the replenishing kanji must be obtained before complete exhaustion. Powerups and abilities for thirst, lust(or infatuation as an euphemism), hunger, door/lock opening, jumping ability, turbo, stealth, flight and so on, are represented by kanjis.
+* •	A special powerup called 罰 (ばつ, punishment) would allow the character to query the opponent, so in this mode, the more difficult the kanji eaten, the better. The punishment for not matching the kanji to the correct concept(once again, either image, sound or animation in the scenario or on GUI) will be related to the concept of the kanji itself. For example the punishment for not solving a riddle regarding 鬼（おに、demon） would be to be cursed by a demon for a minute or so with pestering: fire attacks, traps and visibility obstacles.
 * •	(Optional) draw kanjis at will with the mouse to cast a special ability when opportune.
 * •	(Optional) spell the kanjis with a microphone and through speach recognition allow the player to cast the kanji(as a power-up) when handy.
 * •	Most of the rest of mini-games are kanji matching games.

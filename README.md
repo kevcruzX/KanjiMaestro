@@ -1,7 +1,7 @@
 KanjiMaestro
 ============
 
-High concept: An overly confident maestro(teacher) queries the player with countless exercises in a way that you can choose the correct option. As the game advances one needs to solve the kanji matching in different mini-games. The game would feature learning paths and frequency optimization depending on artificial intelligence’s designation.
+High concept: An overly confident maestro(teacher) you whantthe player with countless exercises in a way that you can choose the correct option. As the game advances one needs to solve the kanji matching in different mini-games. The game would feature learning paths and frequency optimization depending on artificial intelligence’s designation.
 
 
 
